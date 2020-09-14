@@ -1,4 +1,4 @@
-# Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello there! <img src="https://github.com/larsbeijaard/larsbeijaard/blob/master/wave.gif" width="30px">
 ![](https://img.shields.io/github/search/larsbeijaard/larsbeijaard/viewcount?color=4f94ef&label=Profile%20Views&logo=opsgenie)
 [![](https://img.shields.io/badge/BMC-Buy%20me%20a%20coffee-blue?logo=Buy%20Me%20A%20Coffee&logoColor=white&color=4f94ef)](https://www.buymeacoffee.com/larsbeijaard)
 
@@ -8,7 +8,7 @@ My name is Lars Beijaard and I am a software/game developer. I'd like to go out 
 ![](https://img.shields.io/badge/Editor-Visual%20Studio-blue?logo=visual-studio&logoColor=white&color=4f94ef)
 ![](https://img.shields.io/badge/Code-C%23-blue?logo=c%20sharp&logoColor=white&color=4f94ef)
 ![](https://img.shields.io/badge/Version%20Control-GitHub%20Desktop-blue?logo=github&logoColor=white&color=4f94ef)
-![](https://img.shields.io/badge/Other-Reading%20Documentairy-blue?logo=Read%20the%20Docs&logoColor=white&color=4f94ef)
+![](https://img.shields.io/badge/Other-Reading%Documentaries-blue?logo=Read%20the%20Docs&logoColor=white&color=4f94ef)
 ![](https://img.shields.io/badge/Other-Clean%20Programming-blue?logo=Reason%20Studios&logoColor=white&color=4f94ef)
 
 ### 📈 GitHub Stats
