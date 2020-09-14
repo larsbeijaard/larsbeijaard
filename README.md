@@ -8,7 +8,7 @@ My name is Lars Beijaard and I am a software/game developer. I'd like to go out 
 ![](https://img.shields.io/badge/Editor-Visual%20Studio-blue?logo=visual-studio&logoColor=white&color=4f94ef)
 ![](https://img.shields.io/badge/Code-C%23-blue?logo=c%20sharp&logoColor=white&color=4f94ef)
 ![](https://img.shields.io/badge/Version%20Control-GitHub%20Desktop-blue?logo=github&logoColor=white&color=4f94ef)
-![](https://img.shields.io/badge/Other-Reading%Documentaries-blue?logo=Read%20the%20Docs&logoColor=white&color=4f94ef)
+![](https://img.shields.io/badge/Other-Reading%20Documentaries-blue?logo=Read%20the%20Docs&logoColor=white&color=4f94ef)
 ![](https://img.shields.io/badge/Other-Clean%20Programming-blue?logo=Reason%20Studios&logoColor=white&color=4f94ef)
 
 ### 📈 GitHub Stats
