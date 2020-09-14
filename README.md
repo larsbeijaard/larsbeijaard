@@ -1,5 +1,5 @@
 # Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-![](https://img.shields.io/github/search/larsbeijaard/larsbeijaard/viewcount?color=24292e&label=Profile%20Views&logo=opsgenie)
+![](https://img.shields.io/github/search/larsbeijaard/larsbeijaard/viewcount?color=4f94ef&label=Profile%20Views&logo=opsgenie)
 [![](https://img.shields.io/badge/BMC-Buy%20me%20a%20coffee-blue?logo=Buy%20Me%20A%20Coffee&logoColor=white&color=4f94ef)](https://www.buymeacoffee.com/larsbeijaard)
 
 My name is Lars Beijaard and I am a software/game developer. I'd like to go out of my comfort zone if it could lead to new potential ideas! I'm always open for a collabaration. If you have anything on your mind, please take a look [here](https://github.com/larsbeijaard/larsbeijaard/issues).
