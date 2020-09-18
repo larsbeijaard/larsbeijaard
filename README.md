@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=larsbeijaard)
 [![](https://img.shields.io/badge/BMC-Buy%20me%20a%20coffee-blue?logo=Buy%20Me%20A%20Coffee&logoColor=white&color=4f94ef)](https://www.buymeacoffee.com/larsbeijaard)
 
-My name is Lars Beijaard and I am a software/game developer. I'd like to go out of my comfort zone if it could lead to new potential ideas! I'm always open for a collabaration. If you have anything on your mind, please take a look [here](https://github.com/larsbeijaard/larsbeijaard/issues).
+My name is Lars Beijaard and I am a software/game developer. I'd like to go out of my comfort zone if it could lead to new potential ideas! I'm always open for a collabaration. If you have anything to ask, please take a look [here](https://github.com/larsbeijaard/larsbeijaard/issues).
 
 ### 🔧 Strongest Aspects
 ![](https://img.shields.io/badge/Editor-Visual%20Studio-blue?logo=visual-studio&logoColor=white&color=4f94ef)
