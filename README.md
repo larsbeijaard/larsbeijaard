@@ -3,13 +3,18 @@
 [![](https://img.shields.io/badge/BMC-Buy%20me%20a%20coffee-blue?logo=Buy%20Me%20A%20Coffee&logoColor=white&color=4f94ef)](https://www.buymeacoffee.com/larsbeijaard)
 
 My name is Lars Beijaard and I am a software/game developer. I'd like to go out of my comfort zone if it could lead to new potential ideas! I'm always open for a collabaration. If you have anything to ask, please take a look [here](https://github.com/larsbeijaard/larsbeijaard/issues).
+Do you want to see some of my work? [Here](https://larsbeijaard.com/projects) is a link to some of my projects.
 
-### 🔧 Strongest Aspects
-![](https://img.shields.io/badge/Editor-Visual%20Studio-blue?logo=visual-studio&logoColor=white&color=4f94ef)
-![](https://img.shields.io/badge/Code-C%23-blue?logo=c%20sharp&logoColor=white&color=4f94ef)
+### ✨ Languages editors and more I am currently busy with
+![](https://img.shields.io/badge/Code-CSharp-blue?logo=c%20sharp&logoColor=white&color=4f94ef)
+![](https://img.shields.io/badge/Code-Python-blue?logo=python&logoColor=white&color=4f94ef)
+![](https://img.shields.io/badge/Code-PHP%2FMySQLi-blue?logo=php&logoColor=white&color=4f94ef)
+![](https://img.shields.io/badge/Code-HTML5-blue?logo=html5&logoColor=white&color=4f94ef)
+![](https://img.shields.io/badge/Code-CSS-blue?logo=css3&logoColor=white&color=4f94ef)
+![](https://img.shields.io/badge/Editor-JetBrains%20Rider-blue?logo=jetbrains=white&color=4f94ef)
+![](https://img.shields.io/badge/Editor-JetBrains%20PyCharm-blue?logo=jetbrains=white&color=4f94ef)
+![](https://img.shields.io/badge/Editor-JetBrains%20IntelliJ-blue?logo=jetbrains=white&color=4f94ef)
 ![](https://img.shields.io/badge/Version%20Control-GitHub%20Desktop-blue?logo=github&logoColor=white&color=4f94ef)
-![](https://img.shields.io/badge/Other-Reading%20Documentaries-blue?logo=Read%20the%20Docs&logoColor=white&color=4f94ef)
-![](https://img.shields.io/badge/Other-Clean%20Programming-blue?logo=Reason%20Studios&logoColor=white&color=4f94ef)
 
 ### 📈 GitHub Stats
 <a href="https://github.com/larsbeijaard">
